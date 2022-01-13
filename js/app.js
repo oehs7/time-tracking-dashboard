@@ -32,7 +32,7 @@ fetch('./js/data.json')
         regularCards = document.querySelectorAll('.regular-card');
        // console.log(regularCards);
 
-});
+   });
 
 
 // the Functions
