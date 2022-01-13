@@ -30,7 +30,8 @@ fetch('./js/data.json')
 
         //  create  reference to created cards
         regularCards = document.querySelectorAll('.regular-card');
-        
+        console.log(regularCards);
+    
 
 
 // the Functions
